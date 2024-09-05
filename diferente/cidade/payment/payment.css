@@ -1,0 +1,46 @@
+/*(unsuccess/success).html*/
+
+#h1a {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-align: center;
+    color: rgb(0, 206, 0);
+}
+
+#h1b {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-align: center;
+    color: rgb(206, 0, 0);
+}
+
+#btnBack {
+    margin: auto;
+    display: block;
+}
+
+#aInBtnBack {
+    text-decoration: none;
+    font-family: Arial, Helvetica, sans-serif;
+    color: black;
+}
+
+/*payment.html*/
+
+#p1 {
+    text-align: center;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 25pt;
+}
+
+#p2 {
+    text-align: center;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 15pt;
+    margin-top: -0.6cm;
+}
+
+#imgContact {
+    width: 260px;
+    height: 125px;
+    display: block;
+    margin: auto;
+}
